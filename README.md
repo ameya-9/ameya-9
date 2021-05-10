@@ -1,14 +1,11 @@
 ### Hi there 👋
 
 
-**ameya-9/ameya-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🔭 I’m currently working as Software engineer, developes in Java, trying to break into field of Data Science.
-- 🌱 I’m currently learning Machine Learning , particularly interested in field of Data Science and Digital Humanities.
+- 🔭 I’m currently working as Software engineer, develops in Java, trying to break into Data Science
+- 🌱 I’m currently exploring Machine Learning , particularly interested in field of Data Science and Digital Humanities.
 - 👯 I’m looking to collaborate on interesting projects in data Science domain (Python)
-- 💬 Ask me about Anything! Lets Learn and share!
-- 📫 How to reach me: [Linked] (https://www.linkedin.com/in/ameya-naik-aa900/)
+- 💬 Ask me about Anything! Let's Learn and share!
+- 📫 How to reach me: [Linkedin link] (https://www.linkedin.com/in/ameya-naik-aa900/)
 - 😄 Pronouns: He/Him/his
 - ⚡ Fun fact: I can solve 3*3 Rubix Cube, Mirror Cube learning to solve Ghost Cube. Big Time Geography Buff, Stamp (philatelist) and Coin Collector.
 Connect with me:
