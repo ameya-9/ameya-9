@@ -5,7 +5,7 @@
 - 🌱 I’m currently exploring Machine Learning , particularly interested in field of Data Science and Digital Humanities.
 - 👯 I’m looking to collaborate on interesting projects in data Science domain (Python)
 - 💬 Ask me about Anything! Let's Learn and share!
-- 📫 How to reach me: [Linkedin] (https://www.linkedin.com/in/ameya-naik-aa900/)
+- 📫 How to reach me: [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white] (https://www.linkedin.com/in/ameya-naik-aa900/)
 - 😄 Pronouns: He/Him/his
 - ⚡ Fun fact: I can solve 3*3 Rubix Cube, Mirror Cube learning to solve Ghost Cube. Big Time Geography Buff, Stamp (philatelist) and Coin Collector.
 Connect with me:
@@ -15,13 +15,10 @@ Connect with me:
 #### My Working Stack:
 
 <div align="left">
-    <img src="https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&logoColor=F57C00" />
-    <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=E6892E" />
-    <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColorhalf=396E9B" />
-    <img src="https://img.shields.io/badge/-HTML-000000?&style=flat&logo=html5&logoColor=E44D26"/>
-    <img src="https://img.shields.io/badge/-CSS-000000?&style=flat&logo=css3&logoColor=42A5F5"/><br>
-    <img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=E64A19"/>
-    <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=DEDEDF" />
+    <img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     <img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
