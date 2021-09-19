@@ -13,7 +13,7 @@ Connect with me:
 
 
 #### My Working Stack:
-
+<img src='https://api.harmonograph.art/3DFCB3/1C65F8FF/1.5' width='420px' height='400px' align='right'>
 <div align="left">
     <img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
