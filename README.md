@@ -8,7 +8,7 @@
 - 📫 How to reach me:<a href="https://www.linkedin.com/in/ameya-naik-aa900/"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 - 😄 Pronouns: He/Him/his
 - ⚡ Fun fact: I can solve 3*3 Rubix Cube, Mirror Cube learning to solve Ghost Cube. Big Time Geography Buff, Stamp (philatelist) and Coin Collector.
-Connect with me:
+
 
 
 
