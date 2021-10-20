@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working as Software engineer, develops in Java, trying to break into Data Science
+- 🔭 I’m graduate at UC Berkeley, worked as Tech-Consultant/Software Developer with Accenture. Developed in Java, now focus on Data & Product.
 - 🌱 I’m currently exploring Machine Learning , particularly interested in field of Data Science and Digital Humanities.
 - 👯 I’m looking to collaborate on interesting projects in data Science domain (Python)
 - 💬 Ask me about Anything! Let's Learn and share!
