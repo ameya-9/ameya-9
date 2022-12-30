@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hello World 👋
 
 
-- 🔭 I’m graduate at UC Berkeley, worked as Tech-Consultant/Software Developer with Accenture. Developed in Java, now focus on Data & Product.
+- 🔭 I’m graduate at UC Berkeley,focusing on Product Management and Data Science.
+- 🎥 I have previously worked as Product Manager and Tech-Consultant/Software Engineer with Yubico and Accenture respectively. 
 - 🌱 I’m currently exploring Machine Learning , particularly interested in field of Data Science and Digital Humanities.
 - 👯 I’m looking to collaborate on interesting projects in data Science domain (Python)
 - 💬 Ask me about Anything! Let's Learn and share!
