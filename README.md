@@ -10,7 +10,9 @@
 - 😄 Pronouns: He/Him/his
 - ⚡ Fun fact: I can solve 3*3 Rubix Cube, Mirror Cube learning to solve Ghost Cube. Big Time Geography Buff, Stamp (philatelist) and Coin Collector.
 
-
+<br><br>
+<img align="left" alt="University of California, Berkeley" src="ucb.png" width=50 /><img align="left" alt="Devi Ahilya University" src=".png" width=60/><img align="left" alt="Microsoft" src="msftlogo.png" width=50/>
+<br><br><br>
 
 
 #### My Working Stack:
