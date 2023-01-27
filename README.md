@@ -3,9 +3,9 @@
 
 - 🔭 I’m graduate at UC Berkeley,focusing on Product Management and Data Science.
 - 🎥 I have previously worked as Product Manager and Tech-Consultant/Software Engineer with Yubico and Accenture respectively. 
-- 🌱 I’m currently exploring Machine Learning , particularly interested in field of Data Science and Digital Humanities.
-- 👯 I’m looking to collaborate on interesting projects in data Science domain (Python)
-- 💬 Ask me about Anything! Let's Learn and share!
+- 🌱 I’m currently exploring  Data Privacy, CyberSecurity and Analytics.
+- 👯 I’m always looking to collaborate on interesting projects/ideas
+- 💬 Ask me about History/Politics Geopolitics, French! Let's Learn and share!
 - 📫 How to reach me:<a href="https://www.linkedin.com/in/ameya-naik-aa900/"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 - 😄 Pronouns: He/Him/his
 - ⚡ Fun fact: I can solve 3*3 Rubix Cube, Mirror Cube learning to solve Ghost Cube. Big Time Geography Buff, Stamp (philatelist) and Coin Collector.
