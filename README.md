@@ -1,14 +1,19 @@
 ### Hello World 👋
 
 
-- 🔭 I’m graduate at UC Berkeley,focusing on Product Management and Data Science.
-- 🎥 I have previously worked as Product Manager and Tech-Consultant/Software Engineer with Yubico and Accenture respectively. 
+- 🔭 I’m graduate at UC Berkeley,focusing on Product Management, Privacy and Data Science.
+- 🎥 I have previously worked as Product Manager and Technical Program Manager/Software Engineer with Yubico and Accenture respectively. 
 - 🌱 I’m currently exploring  Data Privacy, CyberSecurity and Analytics.
 - 👯 I’m always looking to collaborate on interesting projects/ideas
-- 💬 Ask me about History/Politics Geopolitics, French! Let's Learn and share!
+- 💬 Ask me about History/Politics, French, Japanese, Birding and Privacy! Let's learn and share!
 - 📫 How to reach me:<a href="https://www.linkedin.com/in/ameya-naik-aa900/"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-- 😄 Pronouns: He/Him/his
-- ⚡ Fun fact: I can solve 3*3 Rubix Cube, Mirror Cube learning to solve Ghost Cube. Big Time Geography Buff, Stamp (philatelist) and Coin Collector.
+- 😄 Pronouns: He/him/his
+- ⚡ Fun fact:
+---I can solve 3*3 Rubix Cube and Mirror Cube learning to solve Ghost Cube. Big Time Geography Buff, Stamp (philatelist) and Coin Collector.
+---I won university level quiz competition twice in undergrad and photography competition once. 
+---Our team won national level "Best Aesthetics Robot" for Robotics competition beating 130 teams, we were state level champions.
+
+
 
 <br><br>
 <img align="left" alt="University of California, Berkeley" src="ucb.png" width=50 /><img align="left" alt="Devi Ahilya University" src="DAVV.png" width=60/><img align="left" alt="Accenture" src="accentureLogo.png" width=50/><img align="left" alt="D-lab" src="d-lab.png" width=50/>
