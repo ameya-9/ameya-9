@@ -5,7 +5,7 @@
 - 🎥 I have previously worked as Product Manager and Technical Program Manager/Software Engineer with Yubico and Accenture respectively. 
 - 🌱 I’m currently exploring  Data Privacy, CyberSecurity and Analytics.
 - 👯 I’m always looking to collaborate on interesting projects/ideas
-- 💬 Ask me about History/Politics, French, Japanese, Birding and Privacy! Let's learn and share!
+- 💬 Ask me about History/Politics/Philosophy, French, Japanese, Birding and Privacy! Let's learn and share!
 - 📫 How to reach me:<a href="https://www.linkedin.com/in/ameya-naik-aa900/"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact:
