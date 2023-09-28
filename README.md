@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m graduate at UC Berkeley,focusing on Product Management, Privacy and Data Science.
-- 🎥 I have previously worked as Product Manager and Technical Program Manager/Software Engineer with Yubico and Accenture respectively. 
 - 🌱 I’m currently exploring  Data Privacy, CyberSecurity and Analytics.
 - 👯 I’m always looking to collaborate on interesting projects/ideas
 - 💬 Ask me about History/Politics/Philosophy, French, Japanese, Birding and Privacy! Let's learn and share!
